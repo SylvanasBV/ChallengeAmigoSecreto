@@ -42,12 +42,12 @@
     </ul>
     <h2 id="personas-contribuyentes">👥 Personas Contribuyentes</h2>
     <ul>
-        <li>🔹 <a href="https://github.com/usuario1" target="_blank">Nombre del Contribuyente 1</a></li>
-        <li>🔹 <a href="https://github.com/usuario2" target="_blank">Nombre del Contribuyente 2</a></li>
+        <li>🔹 <a href="https://github.com/christianpva" target="_blank">christianpva</a></li>
+        <li>🔹 <a href="https://github.com/ljcl79" target="_blank">Leonardo Castillo Lacruz</a></li>
     </ul>
     <h2 id="personas-desarrolladoras">👩‍💻 Personas Desarrolladoras del Proyecto</h2>
     <ul>
-        <li>🔹 <a href="https://github.com/tuusuario" target="_blank">Tu Nombre</a></li>
+        <li>🔹 <a href="https://github.com/SylvanasBV" target="_blank">Andres Felipe Barbosa Salamanca</a></li>
     </ul>
     <h2 id="licencia">📜 Licencia</h2>
     <p>Este proyecto está bajo la licencia <b>MIT</b>. Para más detalles, consulta el archivo <a href="LICENSE">LICENSE</a>.</p>
