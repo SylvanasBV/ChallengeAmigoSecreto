@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sorteo de Amigos</title>
 </head>
 <body>
     <h1>Sorteo de Amigos 🎉</h1>
@@ -34,7 +33,7 @@
     </ul>
     <h2 id="acceso-al-proyecto">🔗 Acceso al Proyecto</h2>
     <p>Puedes acceder al código fuente del proyecto en el siguiente enlace:</p>
-    <p>🔗 <a href="https://github.com/usuario/repo-sorteo" target="_blank">Repositorio en GitHub</a></p>
+    <p>🔗 <a href="https://github.com/SylvanasBV/ChallengeAmigoSecreto" target="_blank">Repositorio en GitHub</a></p>
     <h2 id="tecnologias-utilizadas">🛠️ Tecnologías Utilizadas</h2>
     <ul>
         <li>🔹 <b>HTML</b> - Estructura del proyecto.</li>
