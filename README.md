@@ -9,7 +9,6 @@
     <img src="https://via.placeholder.com/800x400.png?text=Sorteo+de+Amigos" alt="Portada del Proyecto">
     <h2>🏆 Insignias</h2>
     <img src="https://img.shields.io/badge/Estado-En%20Desarrollo-yellow" alt="Estado del Proyecto">
-    <img src="https://img.shields.io/badge/Licencia-MIT-blue" alt="Licencia">
     <h2>📌 Índice</h2>
     <ul>
         <li><a href="#descripcion-del-proyecto">Descripción del Proyecto</a></li>
